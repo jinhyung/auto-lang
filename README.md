@@ -4,6 +4,10 @@ A lightweight macOS menu bar app that automatically switches your input source t
 
 <p align="center">
   <img src="AutoLang/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width="128" alt="AutoLang icon">
+  <br><br>
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/jinhyung/auto-lang?label=Download&style=flat-square" alt="Download"></a>
+  <img src="https://img.shields.io/badge/platform-macOS%2014%2B-blue?style=flat-square" alt="macOS 14+">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/jinhyung/auto-lang?style=flat-square" alt="MIT License"></a>
 </p>
 
 If you use multiple input sources (e.g. Korean + English), you know the pain: you switch to your terminal, start typing a command, and realize you're still on the wrong keyboard. AutoLang fixes this by watching which app is in the foreground and switching to English automatically.
